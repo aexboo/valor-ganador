@@ -29,8 +29,8 @@ export function Hero() {
       <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
         <FadeUp>
           <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-bold text-white leading-tight mb-6 text-balance max-w-5xl mx-auto">
-            Deja de ser "uno más" y conviértete en el proveedor que el gerente de planta{" "}
-            <span className="text-cyan-400">llama primero</span>
+            Deja de ser "uno más" y conviértete en el proveedor que{" "}
+            <span className="text-cyan-400">llaman primero</span>
           </h1>
         </FadeUp>
 
